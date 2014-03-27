@@ -1,3 +1,3 @@
-Project: HTML/CSS
+#Project: HTML/CSS
 
-Check out 
+##Check out [The Odin Project](http://theodinproject.com).
